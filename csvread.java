@@ -12,9 +12,9 @@ FileWriter fr = new FileWriter(f,true);
 BufferedWriter br =  new BufferedWriter(fr);
 for(int i= 1; i<10;i++)
 {
-    br.write("RCV Academy online"+",");
+    br.write("My name is pravalli");
 }
-System.out.println(" Written successfully ");
+System.out.println("success ");
 br.close();
 
 }
